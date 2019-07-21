@@ -2305,43 +2305,19 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.13.0!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-http_2.13;10.1.9!akka-http_2.13.jar(src)
 [debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.2!reactive-streams.jar(src)
-[debug] 		tried C:\Users\YEYILING\.ivy2\local\io.spray\spray-json_2.13\1.3.5\srcs\spray-json_2.13-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/io/spray/spray-json_2.13/1.3.5/spray-json_2.13-1.3.5-sources.jar
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-parsing_2.13;10.1.9!akka-parsing_2.13.jar(src)
+[debug] 	[NOT REQUIRED] io.spray#spray-json_2.13;1.3.5!spray-json_2.13.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-java8-compat_2.13;0.9.0!scala-java8-compat_2.13.jar(src)
-[debug] 		tried C:\Users\YEYILING\.ivy2\local\com.typesafe.akka\akka-http-spray-json_2.13\10.1.9\srcs\akka-http-spray-json_2.13-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-http-spray-json_2.13/10.1.9/akka-http-spray-json_2.13-10.1.9-sources.jar
-[debug] 		tried C:\Users\YEYILING\.ivy2\local\com.typesafe.akka\akka-actor_2.13\2.5.23\srcs\akka-actor_2.13-sources.jar
-[debug] 		tried C:\Users\YEYILING\.ivy2\local\com.typesafe\config\1.3.3\srcs\config-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.13;2.5.23!akka-actor_2.13.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-http-spray-json_2.13;10.1.9!akka-http-spray-json_2.13.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe#ssl-config-core_2.13;0.4.0!ssl-config-core_2.13.jar(src)
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.5.23/akka-actor_2.13-2.5.23-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe#config;1.3.3!config.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-http-core_2.13;10.1.9!akka-http-core_2.13.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.13.0!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.13;1.1.2!scala-parser-combinators_2.13.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.13.0!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.0!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
-[info] downloading https://repo1.maven.org/maven2/io/spray/spray-json_2.13/1.3.5/spray-json_2.13-1.3.5-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/io/spray/spray-json_2.13/1.3.5/spray-json_2.13-1.3.5-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.5.23/akka-actor_2.13-2.5.23-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.5.23/akka-actor_2.13-2.5.23-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-http-spray-json_2.13/10.1.9/akka-http-spray-json_2.13-10.1.9-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-http-spray-json_2.13/10.1.9/akka-http-spray-json_2.13-10.1.9-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/io/spray/spray-json_2.13/1.3.5/spray-json_2.13-1.3.5-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/io/spray/spray-json_2.13/1.3.5/spray-json_2.13-1.3.5-sources.jar
-[info] 	[SUCCESSFUL ] io.spray#spray-json_2.13;1.3.5!spray-json_2.13.jar(src) (1854ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-http-spray-json_2.13/10.1.9/akka-http-spray-json_2.13-10.1.9-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-http-spray-json_2.13/10.1.9/akka-http-spray-json_2.13-10.1.9-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-http-spray-json_2.13;10.1.9!akka-http-spray-json_2.13.jar(src) (2567ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe#config;1.3.3!config.jar(src) (19591ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.5.23/akka-actor_2.13-2.5.23-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.5.23/akka-actor_2.13-2.5.23-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.13;2.5.23!akka-actor_2.13.jar(src) (55347ms)
-[debug] :: resolution report :: resolve 1305ms :: artifacts dl 55424ms
+[debug] :: resolution report :: resolve 2640ms :: artifacts dl 109ms
 [debug] 	report for default#akka-http-study$sources;0.1 compile produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-compile.xml
 [debug] 	report for default#akka-http-study$sources;0.1 runtime produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-runtime.xml
 [debug] 	report for default#akka-http-study$sources;0.1 test produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-test.xml
@@ -2353,4 +2329,4 @@
 [debug] 	report for default#akka-http-study$sources;0.1 plugin produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-plugin.xml
 [debug] 	report for default#akka-http-study$sources;0.1 pom produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-pom.xml
 [debug] 	report for default#akka-http-study$sources;0.1 scala-tool produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-scala-tool.xml
-[debug] 	resolve done (1305ms resolve - 55424ms download)
+[debug] 	resolve done (2640ms resolve - 109ms download)

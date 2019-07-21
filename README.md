@@ -1,6 +1,10 @@
 # akka-http-study
 http://yangcongchufang.com/kick-akka-http.html
 
+生成SSH密钥 并 添加公共密钥到GitHub上的帐户：
+//设置GitHub的user name和email：git config --global user.name "Git账号" git config --global user.email "Git邮箱"
+生成一个新的SSH密钥：ssh-keygen -t rsa -C "your_email@example.com"
+
 本地项目首次发送到GitHub：
 git init -- 新建一个本地仓库
 git add README.md -- 将README.md文件加入到仓库中
