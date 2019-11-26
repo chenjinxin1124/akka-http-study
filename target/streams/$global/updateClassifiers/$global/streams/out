@@ -2301,23 +2301,119 @@
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-protobuf_2.13;2.5.23!akka-protobuf_2.13.jar(src)
+[debug] no default ivy user dir defined: set to C:\Users\YEYILING\.ivy2
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-parsing_2.13;10.1.9!akka-parsing_2.13.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-http_2.13;10.1.9!akka-http_2.13.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-stream_2.13;2.5.23!akka-stream_2.13.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.13.0!scala-library.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-http_2.13;10.1.9!akka-http_2.13.jar(src)
+[debug] no default ivy user dir defined: set to C:\Users\YEYILING\.ivy2
+[debug] no default ivy user dir defined: set to C:\Users\YEYILING\.ivy2
+[debug] no default ivy user dir defined: set to C:\Users\YEYILING\.ivy2
+[debug] no default ivy user dir defined: set to C:\Users\YEYILING\.ivy2
 [debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.2!reactive-streams.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-parsing_2.13;10.1.9!akka-parsing_2.13.jar(src)
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default ivy user dir defined: set to C:\Users\YEYILING\.ivy2
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default cache defined: set to C:\Users\YEYILING\.ivy2\cache
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default cache defined: set to C:\Users\YEYILING\.ivy2\cache
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to C:\Users\YEYILING\.ivy2\cache
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to C:\Users\YEYILING\.ivy2\cache
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] no default cache defined: set to C:\Users\YEYILING\.ivy2\cache
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] no default cache defined: set to C:\Users\YEYILING\.ivy2\cache
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (101ms)
+[debug] 	default cache: C:\Users\YEYILING\.ivy2\cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
 [debug] 	[NOT REQUIRED] io.spray#spray-json_2.13;1.3.5!spray-json_2.13.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-java8-compat_2.13;0.9.0!scala-java8-compat_2.13.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.13;2.5.23!akka-actor_2.13.jar(src)
+[debug] settings loaded (123ms)
+[debug] 	default cache: C:\Users\YEYILING\.ivy2\cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-http-spray-json_2.13;10.1.9!akka-http-spray-json_2.13.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe#ssl-config-core_2.13;0.4.0!ssl-config-core_2.13.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.13;2.5.23!akka-actor_2.13.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe#config;1.3.3!config.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-http-core_2.13;10.1.9!akka-http-core_2.13.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe#ssl-config-core_2.13;0.4.0!ssl-config-core_2.13.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.13;1.1.2!scala-parser-combinators_2.13.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.13.0!scala-reflect.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.0!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
-[debug] :: resolution report :: resolve 2640ms :: artifacts dl 109ms
+[debug] settings loaded (107ms)
+[debug] 	default cache: C:\Users\YEYILING\.ivy2\cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (142ms)
+[debug] 	default cache: C:\Users\YEYILING\.ivy2\cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (145ms)
+[debug] 	default cache: C:\Users\YEYILING\.ivy2\cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.0!scala-compiler.jar(src)
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/C:/Users/YEYILING/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (157ms)
+[debug] 	default cache: C:\Users\YEYILING\.ivy2\cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] :: resolution report :: resolve 1557ms :: artifacts dl 200ms
 [debug] 	report for default#akka-http-study$sources;0.1 compile produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-compile.xml
 [debug] 	report for default#akka-http-study$sources;0.1 runtime produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-runtime.xml
 [debug] 	report for default#akka-http-study$sources;0.1 test produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-test.xml
@@ -2329,4 +2425,4 @@
 [debug] 	report for default#akka-http-study$sources;0.1 plugin produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-plugin.xml
 [debug] 	report for default#akka-http-study$sources;0.1 pom produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-pom.xml
 [debug] 	report for default#akka-http-study$sources;0.1 scala-tool produced in C:\Users\YEYILING\Desktop\akka-http-study\target\scala-2.13\resolution-cache\reports\default-akka-http-study$sources-scala-tool.xml
-[debug] 	resolve done (2640ms resolve - 109ms download)
+[debug] 	resolve done (1557ms resolve - 200ms download)
